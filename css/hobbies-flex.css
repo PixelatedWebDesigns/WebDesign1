@@ -3,7 +3,16 @@ section {
   flex-direction: column; 
   align-items: center;
 }
+/* sub-sections for images */
 section#ipod-img {
   align-items: left;
   justify-content: left;
+}
+section#computer-img {
+  align-items: center;
+  justify-content: center;
+}
+section#book-img {
+  align-items: right;
+  justify-content: right;
 }
