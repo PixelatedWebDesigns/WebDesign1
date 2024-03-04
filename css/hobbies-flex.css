@@ -8,6 +8,7 @@ section#ipod-img {
   align-items: left;
   justify-content: left;
 }
+/*
 section#computer-img {
   align-items: center;
   justify-content: center;
@@ -16,7 +17,6 @@ section#book-img {
   align-items: right;
   justify-content: right;
 }
-/*
 .img-grid {
   justify-content: center;
   align-items: center;
