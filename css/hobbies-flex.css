@@ -2,6 +2,8 @@ section {
   display: flex; 
   flex-direction: column; 
   align-items: center;
-  display:grid;
-  grid-template-columns: 2fr 1fr;
+}
+section#ipod-img {
+  align-items: left;
+  justify-content: left;
 }
